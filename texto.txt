@@ -1,1 +1,8 @@
 hola compas estamos aprendiendo git
+ya aprendimos:
+git status
+git init
+git add
+git commit
+git branch
+git checkout
