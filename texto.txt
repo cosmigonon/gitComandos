@@ -6,3 +6,11 @@ git add
 git commit
 git branch
 git checkout
+tambien comandos basicos para terminal unix o gitbash como:
+ls
+pwd
+cd
+mkdir
+touch
+rm
+--help
